@@ -112,7 +112,7 @@ def predict_graph(X,y):
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 #put the NBA LOGO to the interface
-image_filename = "nba_logo.png"
+image_filename = "../nba_logo.png"
 encoded_image = base64.b64encode(open(image_filename, 'rb').read())
 
 #These are the codes about layout and titles of the interface. Briefly they arrange the view of title, image etc.
