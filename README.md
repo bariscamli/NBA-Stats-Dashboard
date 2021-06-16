@@ -20,7 +20,7 @@ The program uses two different API to get the player data which are nba_api and 
 
 ---
 
-##References
+## References
 pip install nba_api <br>
 pip install basketball_reference_web_scraper <br>
 pip install dash <br>
