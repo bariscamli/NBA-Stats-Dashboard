@@ -1,4 +1,4 @@
-**Version 1.0.0**
+# NBA Stats Dashboard
 
 This program shows the statistics of Nba players by years to its users. It also predicts players' statistics
 for the next season by using statistics from previous years available to the user.
@@ -21,14 +21,14 @@ The program uses two different API to get the player data which are nba_api and 
 ---
 
 ## References
-pip install nba_api <br>
-pip install basketball_reference_web_scraper <br>
-pip install dash <br>
-pip install dash_core_components <br>
-pip install dash_html_components <br>
-pip install plotly <br>
-pip install sklearn <br>
-pip install numpy <br>
-pip install Unidecode <br>
+* pip install nba_api <br>
+* pip install basketball_reference_web_scraper <br>
+* pip install dash <br>
+* pip install dash_core_components <br>
+* pip install dash_html_components <br>
+* pip install plotly <br>
+* pip install sklearn <br>
+* pip install numpy <br>
+* pip install Unidecode <br>
 
 
